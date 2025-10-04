@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
+class cppTarotReader {
+    public:
+    
+    void myFunction(){
+    
+    }
+};
 
-void myFunction(){
-    cout << "Welcome to the mysterious world of Tarot." ;
+void main(){
+    cout <<"Welcome to the mysterious world of tarot.";
 }
